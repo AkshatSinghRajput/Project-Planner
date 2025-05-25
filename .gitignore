@@ -1,0 +1,19 @@
+.venv
+__pycache__
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+# Jupyter Notebook metadata
+*.ipynb
+
+# Pytest cache
+.pytest_cache/
+# Coverage reports
+.coverage
+.coverage.*
+
+# Secret management
+.env
+.env.*
